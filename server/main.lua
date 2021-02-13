@@ -9,7 +9,7 @@ local DataStoresIndex = {}
 local SharedDataStores = {}
 ESX = nil
 
-TriggerEvent('esx:getShkFxaredObjkFxect', function(obj) ESX = obj end)
+TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 MySQL.ready(function()
 	local result = MySQL.Sync.fetchAll('SELECT * FROM datastore')
