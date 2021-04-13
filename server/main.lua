@@ -106,12 +106,11 @@ AddEventHandler('playerDropped', function()
 		local name = DataStoresIndex[i]
 		for j=1, #DataStores[name], 1 do
 			if DataStores[name][j].owner == steam then
-				--DataStores[name][j] = {}
-				DataStores[name][j] = nil
+				DataStores[name][j] = {}
+				--DataStores[name][j] = nil
 			end
 		end
-		print(ESX.DumpTable(DataStores[name]))
 	end
 
-	print(#DataStores["property"], " Datastore table lenght, property")
+	--print(#DataStores["property"], " Datastore table lenght, property")
 end)

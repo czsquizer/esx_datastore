@@ -10,8 +10,6 @@ This datastore is used to work with most of MultiCharacter scripts. Also, this d
 The disadvantage is that it does NOT support datatstores for weapons, so if your scripts are using it, it won't work. For this case, there is `sqz_unijob`, which has its own table in database ti store weapons so it is not affected by datastore and it WILL work.
 
 ## TOS:
-- You are NOT allowed to share the code with other people that do not have access to it
-- You are NOT allowed to try to decrypt it
-- Any leaking and breaking the TOS may and WILL lead to blacklisting your IPs, ban from the Discord and adding you to Blacklist.
+- No selling/reselling allowed
 
 ## This is editted esx_datastore, link to its original author https://github.com/esx-framework/esx_datastore
