@@ -107,10 +107,8 @@ AddEventHandler('playerDropped', function()
 		for j=1, #DataStores[name], 1 do
 			if DataStores[name][j].owner == steam then
 				DataStores[name][j] = {}
-				--DataStores[name][j] = nil
 			end
 		end
 	end
 
-	--print(#DataStores["property"], " Datastore table lenght, property")
 end)

@@ -1,3 +1,10 @@
+# Visit Squizer's "social media"
+* [Tebex](https://sqz.tebex.io/)
+* [Cfx.re Forum](https://forum.cfx.re/u/squizer/)
+* [Discord](https://discord.gg/FVXAu2F)
+* [GitHub](https://github.com/czsquizer/)
+### Editted by Squizer#3020
+
 # esx_datastore
 
 ## Download & Installation
