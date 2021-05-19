@@ -31,6 +31,7 @@ In case of any issues, let me know, you have 2 ways. You can create a GitHub iss
 
 # Visit Squizer's "social media"
 * [Tebex](https://sqz.tebex.io/)
+* [Page](https://squizer.cz)
 * [Cfx.re Forum](https://forum.cfx.re/u/squizer/)
 * [Discord](https://discord.gg/FVXAu2F)
 * [GitHub](https://github.com/czsquizer/)
