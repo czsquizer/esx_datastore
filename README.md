@@ -1,7 +1,18 @@
 # ESX_DATASTORE SCRIPT
 
-__You can support me__
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=M4KV4Q9LDWEBC)  
+<div align="center">
+
+# 🌐 **Host Smarter with Fusiora.com!** 🚀  
+
+<img src="https://fusiora.com/assets/img/branding/content/logo_white.svg" alt="Fusiora Logo" width="400">  
+
+🖥️ **Premium hardware** in **Netherlands**, **Miami**, & **Germany**.  
+🛡️ **DDoS protection** for **any game**.  
+💸 Use **`CODELY`** for **10% OFF**!  
+
+## 🔗 [**Start Hosting Now**](https://fusiora.com)  
+
+</div>
 
 # Features
 - Works with multichars (no memory leaks)
